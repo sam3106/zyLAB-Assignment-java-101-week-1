@@ -8,7 +8,6 @@ public class DoubleNum {
       System.out.println("Enter x: ");
       x = scnr.nextInt();
       
-      System.out.println(x);
       System.out.println("x doubled is: " + (2 * x));
    }
 }
